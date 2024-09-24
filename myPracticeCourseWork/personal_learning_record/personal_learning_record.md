@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
-| Student Number | |
-| Github Account | |
+| Student Name | Finn Thompson |
+| Student Number | Q102558610 |
+| Github Account | finnt2192 |
 
 ## Introduction
 
