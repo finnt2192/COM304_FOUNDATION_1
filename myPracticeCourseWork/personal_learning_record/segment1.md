@@ -33,9 +33,17 @@ Analog computers laid the groundwork for modern computing techniques and helped 
 I also learnt that forms of analog computing like optical computing may make a come back due to it being able to be used to simulate neurons
 
 
+Digital computers:
+
+George Boole Jnr is the creator of Boolean algebra which is extremely important to modern computing
+Boolean algebra enables logical decision making in machines
+Alan Turing invented the bombe which was used to decode enigma in WW2 through a brute force attack
+He also invented the Turing machine which had all the core concepts of the modern computer, it was a model of a CPU
 
 
+Electronic computers:
 
+Colossus (made in 1943) was the first programmable computer, It was designed to decode the lorenz cipher
 
 
 ## session 2
