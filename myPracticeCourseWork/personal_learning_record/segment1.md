@@ -35,7 +35,7 @@ Had a long working relationship and friendship with Charles Babbage
 
 I also learnt about the importance of analog computers:
 
-Analog computers laid the groundwork for modern computing techniques and helped solve complex mathmatical problems in a time where digital computers were unable to.
+Analog computers laid the groundwork for modern computing techniques and helped solve complex mathematical problems in a time where digital computers were unable to.
 
 
 
@@ -53,15 +53,15 @@ He also invented the Turing machine which had all the core concepts of the moder
 
 Electronic computers:
 
-Colossus (made in 1943) was the first programmable computer, It was designed to decode the lorenz cipher
+Colossus (made in 1943) was the first programmable computer, It was designed to decode the Lorenz cipher
 
-ENIAC (electronic numerical intergrator and computer) was the first programmable electronic digital computer, made with 18000 vacuum tubes however several burned out almost every day
+ENIAC (electronic numerical integrator and computer) was the first programmable electronic digital computer, made with 18000 vacuum tubes however several burned out almost every day
 
 Transistors:
 
 The transistor was invented at Bell Laboratories in 1947.
 
-The worlds first transistor computer was built at the university of manchester in november 1953
+The worlds first transistor computer was built at the university of Manchester in November 1953
 
 Early short term memory examples:
 
@@ -99,7 +99,7 @@ It introduced multiprogramming, Job scheduling, Spooling, Interrupts, Pipelining
 
 
 
-During this session I also started to learn how git works and created an account on github so that I could create the personal learning diary, I also learnt how to clone a repository.
+During this session I also started to learn how git works and created an account on GitHub so that I could create the personal learning diary, I also learnt how to clone a repository.
 
 
 
@@ -172,13 +172,13 @@ During this session I also learnt how to clone a github repo onto my pc and then
 
 ## session 3
 
-In this session I looked deeper into the architecture of the rasberry pi
+In this session I looked deeper into the architecture of the raspberry pi
 
 the GPIO unit on a pi is connected to the 40 pin connector.
 
 Programming the GPIO can be complex but it can be made simpler with many of the tools and libraries that are available to make it easier for a user without having to understand the complexity of the GPIO
 
-In this session I learnt how to wire an LED into a rasberry pi so that it can be used with node red, then I downloaded Node red onto a rasberry pi in order to control LED lights and have them form a traffic light pattern.
+In this session I learnt how to wire an LED into a raspberry pi so that it can be used with node red, then I downloaded Node red onto a raspberry pi in order to control LED lights and have them form a traffic light pattern.
 
 
 ## session 4 (consolidate)
