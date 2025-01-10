@@ -73,9 +73,34 @@ On the other hand user processes run outside of the kernel and the parts of the 
 
 Session 7 was heavily focused on the history of the linux operating system
 
+Linux Origins:
+
+In the 1970s AT&T developed the original C programming language and wrote a new operating system called Unix
+Compter manufacturers began developing their own variants
+The "POSIX Compliant Unix standard" standardised the system calls across unix systems so that various programs could run across all variants of unix
+Richard Stallman started development on a new open source unix like operating system which would be free for anyone to use, he also developed the gcc compiler and various other software utilities, he then published the software under the "copy left GPL licence" which forced people who used the source code to publish their work under the same licence
+The first linux prototypes were released in late 1991 and version 1.0 was released in 1994
+Linux has grown to be the major operating system powering the internet and the cloud
+
+
+Linux OS structure:
+
+Linux gives many choices as to which libraries are used to provide services in any particular layer, this makes a linux based system a lot more flexible than a windows system
+The kernel provides the core operating system services including the device drivers, file systems and scheduler.
+File permissions are a core part of the security model used by linus systems
+File permissions dictate who can read/write to files and directories on a system
+If it is a system file the owner can be root
+All files have an owner, when you create one you are automatically assigned as the owner
+Users can also be grouped so that the permissions can be spread across one another
+UNIX systems originally had a simple ASCII terminal based user interface however after 1987 unix and linux operating systems have been using the X window system for their GUI
+The boot process starts an operating system by setting up essential processes and data structures
+The BIOS on PC motherboards handles diagnostics, hardware configuration and finds the boot loader on disks
+Rasberry Pi lacks a BIOS so it uses a unique boot process where it starts from an SD card via the GPU
+
+
 
 
 ## session 8 (consolidate)
 
-TBD
+
 
