@@ -106,5 +106,5 @@ In session 8 I went back over the material in session 7 primarily as I wanted to
 
 I had a look at the key shell commands and how they could be used in the terminal
 I also looked further into the file permissions in linux and how the ownership and permissions list looks when you list it in the terminal
-I then did my own research on wayland and how it's replacing the X11 window system protocol in later raspberry pi's
+I then did my own research on wayland and how it's replacing the X11 window system protocol in later raspberry pi's (Websites I looked at: https://www.tuxedocomputers.com/en/Whats-the-deal-with-X11-and-Wayland-_1.tuxedo    https://askubuntu.com/questions/11537/why-is-wayland-better    https://www.howtogeek.com/900698/what-is-wayland-on-linux-and-how-is-it-different-from-x/  )
 
