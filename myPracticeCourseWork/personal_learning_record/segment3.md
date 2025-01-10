@@ -70,7 +70,13 @@ With more and more services starting to be launched on the internet, internet us
 
 ## session 11
 
+In session 11 I spent time further looking at the history of the internet to better understand how it started
+Websites I looked at: (https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet  https://www.hyperoptic.com/broadband/explained/homebroadband/history-of-the-internet/ )
+
+I also spent a significant amount of time expanding on the notes I had originally written during the previous sessions so that they would fit better in my learning record
+
 ## session 12 (consolidate)
 
-TBD
+In session 12 I spent all of my time making sure my github is synchronised and is working correctly, I then spent a lot of my time finishing the prior experience section of my learning record. I also spent my time listening to the assessment guidance that was provided.
+
 
