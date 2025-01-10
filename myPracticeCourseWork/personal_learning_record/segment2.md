@@ -22,7 +22,7 @@ CPUlator is a free cpu simulator made for teaching use, made by henry wong
 
 CPUlator can run inside a web browser, the simulation allows running and debugging programs without needing a hardware board.
 
-CPUlator can be used to simulate an ARM 7 processor which is similar to the processor used in a rasberry pi
+CPUlator can be used to simulate an ARM 7 processor which is similar to the processor used in a raspberry pi
 
 On the left panel of CPUlator are the ARMv7 registers
 
@@ -55,12 +55,11 @@ An assembler is a program that translates assembler source code into machine cod
 
 Assembly code is specific to each processor and is designed to make it easier for programmers to specify various instructions
 
-High level langauges include languages like C, Python and Java
+High level languages include languages like C, Python and Java
 
 High level languages are translated into low level machine code
 
-Node red which I previously used to make the LED attatched to a rasberry pi light up is considered a no code language as it is visually programmed
-
+Node red which I previously used to make the LED attached to a raspberry pi light up is considered a no code language as it is visually programmed
 
 ## session 6
 
@@ -135,19 +134,16 @@ The boot process starts an operating system by setting up essential processes an
 
 The BIOS on PC motherboards handles diagnostics, hardware configuration and finds the boot loader on disks
 
-Rasberry Pi lacks a BIOS so it uses a unique boot process where it starts from an SD card via the GPU
-
-
-
+Raspberry Pi lacks a BIOS so it uses a unique boot process where it starts from an SD card via the GPU
 
 
 ## session 8 (consolidate)
 
-In session 8 I went back over the material in session 7 primarily as I wanted to gain a better understanding of how the linux operating system worked
+In session 8 I went back over the material in session 7 primarily as I wanted to gain a better understanding of how the Linux operating system worked
 
 I had a look at the key shell commands and how they could be used in the terminal
 
-I also looked further into the file permissions in linux and how the ownership and permissions list looks when you list it in the terminal
+I also looked further into the file permissions in Linux and how the ownership and permissions list looks when you list it in the terminal
 
 I then did my own research on wayland and how it's replacing the X11 window system protocol in later raspberry pi's (Websites I looked at: https://www.tuxedocomputers.com/en/Whats-the-deal-with-X11-and-Wayland-_1.tuxedo    https://askubuntu.com/questions/11537/why-is-wayland-better    https://www.howtogeek.com/900698/what-is-wayland-on-linux-and-how-is-it-different-from-x/  )
 
