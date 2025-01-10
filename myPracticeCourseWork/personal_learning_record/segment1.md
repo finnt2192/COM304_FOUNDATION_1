@@ -80,11 +80,67 @@ It introduced multiprogramming, Job scheduling, Spooling, Interrupts, Pipelining
 During this session I also started to learn how git works and created an account on github so that I could create the personal learning diary, I also learnt how to clone a repository.
 
 I also learnt how to set up a rasberry pi and how to connect to the internet on it.
+
+
 ## session 2
 
+Session 2 was focused on computer architecture
 
+
+Classic von-neumman architecture components:
+
+A processing unit with both an arithmetic logic unit and processor registers
+A control unit that includes an instruction register and a program counter
+memory that stores data and instructions 
+external mass storage
+input and output mechanisms
+
+Diagrams used in slideshow: https://imgur.com/a/IGfDiFO  https://imgur.com/a/G1vjyqB
+
+
+Types of memory on cpu:
+
+Registers
+Arithmetic logic unit
+Layer 1 cache
+Layer 2 cache
+Memory management unit
+
+comparing or processing memory in registers is very fast
+hitting caches may be a lot slower
+
+
+Types of memory off cpu:
+
+SRAM/DRAM
+disk - HDD / SSD
+Removable - Floppy disk / SD card / Tape
+Virtual memory
+
+
+
+I also learnt about the differnces between X86 and ARM Architecture
+These differnces include:
+
+x86 consumes more power
+ARM is better for simple tasks however x86 is better for more complex tasks
+x86 is found in most desktop computers and laptops but ARM is found more in mobile devices
+x86 has variable length instructions with more complex operations where ARM has fixed length instructions (usually 32-bit or 64-bit)
+
+I also got to learn about the rasberry pi through diagrams of it's hardware.
+Diagrams shown in slideshow: https://imgur.com/a/LI27N7b      https://imgur.com/a/4pJ7Qhg
+
+
+
+During this session I also learnt how to clone a github repo onto my pc and then merge it with newer branches.
 
 ## session 3
+
+In this session I looked deeper into the architecture of the rasberry pi
+
+the GPIO unit on a pi is connected to the 40 pin connector.
+
+In this session I downloaded Node red onto a rasberry pi in order to control LED lights and have them form a traffic light pattern, although we didn't get round to making an automated traffic light system I was able to 
 
 ## session 4 (consolidate)
 
