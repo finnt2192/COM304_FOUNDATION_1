@@ -140,9 +140,12 @@ In this session I looked deeper into the architecture of the rasberry pi
 
 the GPIO unit on a pi is connected to the 40 pin connector.
 
-In this session I downloaded Node red onto a rasberry pi in order to control LED lights and have them form a traffic light pattern, although we didn't get round to making an automated traffic light system I was able to 
+Programming the GPIO can be complex but it can be made simpler with many of the tools and libraries that are available to make it easier for a user without having to understand the complexity of the GPIO
+
+In this session I learnt how to wire an LED into a rasberry pi so that it can be used with node red, then I downloaded Node red onto a rasberry pi in order to control LED lights and have them form a traffic light pattern, although we didn't get round to making an automated traffic light system I was able to make the traffic lights turn on and off with a virtual switch so that they can go through the cycle manually.
+
 
 ## session 4 (consolidate)
 
-
-TBD
+In this session I mainly wanted to go back and go over what information I had already learnt from previous sessions.
+I spent some time looking at the slideshows that had been used in previous sessions to remember anything I had missed while I was in class. I picked up a lot of information from the history of computing slideshow that was shown to me in session 1. I also looked deeper at the structure of the rasberry pi and how it worked, I also took a look at the specifications of the pi 3 to see what it's limitations were.
