@@ -102,5 +102,9 @@ Rasberry Pi lacks a BIOS so it uses a unique boot process where it starts from a
 
 ## session 8 (consolidate)
 
+In session 8 I went back over the material in session 7 primarily as I wanted to gain a better understanding of how the linux operating system worked
 
+I had a look at the key shell commands and how they could be used in the terminal
+I also looked further into the file permissions in linux and how the ownership and permissions list looks when you list it in the terminal
+I then did my own research on wayland and how it's replacing the X11 window system protocol in later raspberry pi's
 
