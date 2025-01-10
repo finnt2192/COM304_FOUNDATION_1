@@ -41,6 +41,33 @@ The transport layer defines the data connection quality between the application 
 
 ## session 10
 
+Session 10 was primarily focused on the history of the internet
+
+"Victorian internet" is the telegraph network developed in the 19th century that used morse code to relay messages between stations
+
+In the 1960's to the 1970's the US government needed a communications system that could survive massive disruption so they created DARPA (Defence advanced research projects agency)
+
+In the 1980's to the 1990's early ISPs like AOL and CompuServe started offering home users internet access via phone lines 
+
+In 1991 the first version of HTTP was introduced, however it could only support basic functions like requesting HTML documents from servers
+
+In 1995 AltaVista was established as an early web search engine
+
+In 1995 Amazon opened as an online bookseller
+
+In 1996 HTTP 1.0 was released introducing more features such as the ability to handle different types of data
+
+In 1998 Google Inc was founded
+
+In 1999 HTTP 1.1 provided improvements in performance, caching and persistent connections
+
+In 2001 Wikipedia was launched
+
+In 2005 Youtube was launched
+
+With more and more services starting to be launched on the internet, internet usage shot up as shown in this diagram: (https://imgur.com/a/qRijcUA)
+
+
 ## session 11
 
 ## session 12 (consolidate)
