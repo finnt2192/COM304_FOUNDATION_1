@@ -149,3 +149,4 @@ In this session I learnt how to wire an LED into a rasberry pi so that it can be
 
 In this session I mainly wanted to go back and go over what information I had already learnt from previous sessions.
 I spent some time looking at the slideshows that had been used in previous sessions to remember anything I had missed while I was in class. I picked up a lot of information from the history of computing slideshow that was shown to me in session 1. I also looked deeper at the structure of the rasberry pi and how it worked, I also took a look at the specifications of the pi 3 to see what it's limitations were.
+I also decided to take a second look at the GPIO Pinout diagram to further understand what each pin is used for and what it does because when I was first trying to get the LED to work I just followed the instructions given to me without really understanding why I should be putting the cathode and anode of the LED in that specific spot.
